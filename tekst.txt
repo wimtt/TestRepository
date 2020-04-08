@@ -1,1 +1,2 @@
 nu voeg ik een regel toe
+zo nu gaan we er eens tekst aan toevoegen in branch 2
